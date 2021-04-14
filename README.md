@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Nikkune
+- 👀 I’m interested in dev in java, c#, c++, python
+- 🌱 I’m currently learning Advanced Minecraft Modding
