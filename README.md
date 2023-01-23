@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Nikkune
-- 👀 I’m interested in dev in java, c#, c++, python
+- 👀 I’m interested in dev in java, c#, c++, python, html, css, php, javascript, reactjs
 - 🌱 I’m currently learning C# For Unity
