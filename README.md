@@ -15,7 +15,7 @@ I'm a passionate developer with a love for learning and creating. I enjoy workin
 
 ###
 
-<img align="right" height="280" src="https://raw.githubusercontent.com/Nikkune/Nikkune/main/picture/Nikkune%20V2.gif" />
+<img align="right" height="280" src="https://raw.githubusercontent.com/Nikkune/Nikkune/main/pictures/userprofile.gif" />
 
 ###
 
