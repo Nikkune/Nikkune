@@ -15,7 +15,7 @@ I'm a passionate developer with a love for learning and creating. I enjoy workin
 
 ###
 
-<img align="right" height="240" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="300" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
